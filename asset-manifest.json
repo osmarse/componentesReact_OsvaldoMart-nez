@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/componentesReact_OsvaldoMartinez/static/css/main.7b26fc50.css",
+    "main.js": "/componentesReact_OsvaldoMartinez/static/js/main.71b5e7bc.js",
+    "index.html": "/componentesReact_OsvaldoMartinez/index.html",
+    "main.7b26fc50.css.map": "/componentesReact_OsvaldoMartinez/static/css/main.7b26fc50.css.map",
+    "main.71b5e7bc.js.map": "/componentesReact_OsvaldoMartinez/static/js/main.71b5e7bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b26fc50.css",
+    "static/js/main.71b5e7bc.js"
+  ]
+}
